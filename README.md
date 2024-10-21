@@ -1,1 +1,2 @@
+REMOTE
 initialisation du repo
